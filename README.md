@@ -53,8 +53,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/harshit-katiyar-8b7962340/
+- 📧 Email: katiyarharshit2005@gmail.com
 
 ---
 
