@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | React Developer | C++ Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Currently+Learning+Node.js;Open+to+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;C%2B%2B+%7C+Data+Structures+%26+Algorithms" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 Passionate about Web Development and Problem Solving
 - ⚛️ Building responsive applications using **React.js**
 - 📚 Solving **Data Structures & Algorithms** in C++
-- 🌱 Currently learning **Node.js** and Backend Development
+- 🌱  **Node.js** and Backend Development
 - 🚀 Looking for **Software Engineering Internship** opportunities
 
 ---
