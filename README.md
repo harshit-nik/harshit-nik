@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Katiyar</h1>
-<h3 align="center">Aspiring Software Engineer | React Developer | C++ Programmer</h3>
+<h3 align="center">Aspiring Software Engineer | C++ Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Frontend+Developer;React.js+%7C+JavaScript+%7C+C%2B%2B;Data+Structures+%26+Algorithms" />
